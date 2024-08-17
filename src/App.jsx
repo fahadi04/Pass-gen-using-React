@@ -1,6 +1,5 @@
 import { useCallback, useEffect, useState, useRef } from "react";
 import "./App.css";
-import { MAX } from "uuid";
 
 function App() {
   const [length, setLength] = useState(8);
